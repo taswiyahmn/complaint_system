@@ -47,11 +47,11 @@ Acting as a **hybrid data analyst and system bridge**, I worked with 3 full-stac
 
 ### Phase 2: Cataloging Dimensions & Setting Up Data Control
 
-![Cataloging Dimensions & Setting Up Data Control](Catalog%20Dimension.png)
+![Cataloging Dimensions & Setting Up Data Control](Catalog%20Dimension.jpg)
 
 **Moving to Production**: The 1,900+ cleaned records were migrated into PostgreSQL to serve as the backbone for the relational query architecture below.
 
-![Cataloging Dimensions & Setting Up Data Control (2)](Catalog%20Dimension%20(2).png)
+![Cataloging Dimensions & Setting Up Data Control (2)](Catalog%20Dimension%20(2).jpg)
 
 ```json
 {
@@ -90,6 +90,8 @@ Acting as a **hybrid data analyst and system bridge**, I worked with 3 full-stac
     ]
 }
 ```
+
+### Monitoring Dashboard & Handled Page by Staff
 
 ![Dashboard](Dahsboard%20Monitoring.png)
 
