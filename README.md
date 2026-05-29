@@ -51,7 +51,7 @@ Acting as a **hybrid data analyst and system bridge**, I worked with 3 full-stac
 
 **Moving to Production**: The 1,900+ cleaned records were migrated into PostgreSQL to serve as the backbone for the relational query architecture below.
 
-![Cataloging Dimensions & Setting Up Data Control (20)](Catalog%20Dimension%20(2).png)
+![Cataloging Dimensions & Setting Up Data Control (2)](Catalog%20Dimension%20(2).png)
 
 ```json
 {
